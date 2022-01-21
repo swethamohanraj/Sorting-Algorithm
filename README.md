@@ -52,6 +52,7 @@ print(list_of_nums)
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/94228215/150461571-da8f900b-364e-4795-b091-f0c9b39cf22b.png)
 
 
 ## Result:
