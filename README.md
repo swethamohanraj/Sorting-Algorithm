@@ -20,6 +20,8 @@ To write a program to perform selection sort and insertion sort using python pro
 ## Program:
 i)	#Selection Sort
 ```
+Developed by:K.M.Swetha
+Register Number: 21500844
 def selection_sort(nums):
     for i in range(len(nums)):
         lowest_index_value=i
@@ -36,6 +38,9 @@ print(list_of_nums)
 ```
 ii)	#Insertion Sort
 ```
+Developed by:K.M.Swetha
+Register Number: 21500844
+
 def insertion_sort(nums):
     for i in range (1,len(nums)):
         value_to_insert=nums[i]
